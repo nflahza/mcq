@@ -1,33 +1,74 @@
-[
-  {
-    "question": "What is the capital of France?",
-    "options": ["Berlin", "Madrid", "Paris", "Rome", "London"],
-    "answer": 2
-  },
-  {
-    "question": "What is 2 + 2?",
-    "options": ["3", "4", "5", "6", "7"],
-    "answer": 1
-  },
-  {
-    "question": "Who wrote 'To Kill a Mockingbird'?",
-    "options": [
-      "Harper Lee",
-      "Mark Twain",
-      "John Steinbeck",
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which planet is known as the Red Planet?",
-    "options": ["Mars", "Venus", "Mercury", "Jupiter", "Saturn"],
-    "answer": 0
-  },
-  {
-    "question": "Which chemical element has the symbol 'Fe'?",
-    "options": ["Iron", "Gold", "Silver", "Copper", "Zinc"],
-    "answer": 0
-  }
-]
+{
+  "cognitive": [
+    {
+      "question": "What is 2 + 2?",
+      "options": ["1", "2", "3", "4", "5"],
+      "answer": 3
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "London", "Madrid", "Paris", "Rome"],
+      "answer": 3
+    }
+  ],
+  "literature_a": [
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "F. Scott Fitzgerald",
+        "J.K. Rowling",
+        "George Orwell",
+        "Mark Twain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is the author of 'Pride and Prejudice'?",
+      "options": [
+        "Emily Brontë",
+        "Jane Austen",
+        "Virginia Woolf",
+        "Mary Shelley",
+        "Charlotte Brontë"
+      ],
+      "answer": 1
+    }
+  ],
+  "literature_b": [
+    {
+      "question": "Who wrote 'Moby-Dick'?",
+      "options": [
+        "Herman Melville",
+        "Ernest Hemingway",
+        "J.R.R. Tolkien",
+        "John Steinbeck",
+        "Mark Twain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who wrote '1984'?",
+      "options": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Kurt Vonnegut",
+        "Philip K. Dick"
+      ],
+      "answer": 0
+    }
+  ],
+  "quantitative": [
+    {
+      "question": "What is the derivative of x^2?",
+      "options": ["1", "2", "x", "2x", "x^2"],
+      "answer": 3
+    },
+    {
+      "question": "What is the integral of 1/x?",
+      "options": ["x", "ln(x)", "x^2", "1/x", "e^x"],
+      "answer": 1
+    }
+  ]
+}
