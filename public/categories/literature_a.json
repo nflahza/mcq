@@ -1,0 +1,24 @@
+[
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "Jane Austen",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which novel is set on a deserted island?",
+    "options": [
+      "Lord of the Flies",
+      "Moby Dick",
+      "Pride and Prejudice",
+      "The Great Gatsby",
+      "1984"
+    ],
+    "answer": 0
+  }
+]
