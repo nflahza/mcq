@@ -2,7 +2,7 @@
 // next.config.mjs
 const config = {
   // Use the basePath for GitHub Pages if necessary
-  // basePath: '/your-repo-name',
+  basePath: "/mcq",
   // Use the assetPrefix for GitHub Pages if necessary
   // assetPrefix: '/your-repo-name/',
   // Specify exportPathMap to export your dynamic pages
